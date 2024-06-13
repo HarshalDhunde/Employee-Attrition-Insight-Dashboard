@@ -1,4 +1,4 @@
-# HR Analytics Dashboard Project
+# Employee-Attrition-Insight-Dashboard
 
 
 ### Project Title
